@@ -1,0 +1,13 @@
+	all_sum
+Naive T	404
+CD8+ GZMK+ T	216
+Treg	518
+gd T	657
+CD8+ Exhausted T	508
+CD8+ GZMB+ T	589
+MAIT	510
+Plasma cells	248
+B cells	458
+CD56brightCD16- NK cells	666
+CD56dimCD16+ NK cells	576
+C2: C1q+IL18+MCs	459

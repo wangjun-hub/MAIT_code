@@ -1,11 +1,11 @@
 ####Figure 4A
 
-count_net <- read.delim("./out/count_network.txt", check.names = FALSE)
-inter_net <- read.delim("./out/interaction_count.txt", check.names = FALSE)
-pvalues <- read.delim("./out/pvalues.txt", check.names = FALSE)
-means <- read.delim("./out/means.txt", check.names = FALSE)
-sig.means <- read.delim("./out/significant_means.txt", check.names = FALSE)
-deconvoluted <- read.delim("./out/deconvoluted.txt", check.names = FALSE)
+count_net <- read.delim("../data/count_network.txt", check.names = FALSE)
+inter_net <- read.delim("../data/interaction_count.txt", check.names = FALSE)
+pvalues <- read.delim("../data/pvalues.txt", check.names = FALSE)
+means <- read.delim("../data/means.txt", check.names = FALSE)
+sig.means <- read.delim("../data/significant_means.txt", check.names = FALSE)
+deconvoluted <- read.delim("../data/deconvoluted.txt", check.names = FALSE)
 
 #Interactive Network Diagram
 library(CellChat)

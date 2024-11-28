@@ -1,0 +1,145 @@
+SOURCE	TARGET	count
+Naive T	Naive T	12
+Naive T	CD8+ GZMK+ T	12
+Naive T	Treg	32
+Naive T	gd T	52
+Naive T	CD8+ Exhausted T	33
+Naive T	CD8+ GZMB+ T	42
+Naive T	MAIT	29
+Naive T	Plasma cells	20
+Naive T	B cells	35
+Naive T	CD56brightCD16- NK cells	56
+Naive T	CD56dimCD16+ NK cells	43
+Naive T	C2: C1q+IL18+MCs	38
+CD8+ GZMK+ T	Naive T	12
+CD8+ GZMK+ T	CD8+ GZMK+ T	4
+CD8+ GZMK+ T	Treg	21
+CD8+ GZMK+ T	gd T	25
+CD8+ GZMK+ T	CD8+ Exhausted T	15
+CD8+ GZMK+ T	CD8+ GZMB+ T	23
+CD8+ GZMK+ T	MAIT	15
+CD8+ GZMK+ T	Plasma cells	8
+CD8+ GZMK+ T	B cells	22
+CD8+ GZMK+ T	CD56brightCD16- NK cells	27
+CD8+ GZMK+ T	CD56dimCD16+ NK cells	20
+CD8+ GZMK+ T	C2: C1q+IL18+MCs	24
+Treg	Naive T	32
+Treg	CD8+ GZMK+ T	21
+Treg	Treg	21
+Treg	gd T	62
+Treg	CD8+ Exhausted T	47
+Treg	CD8+ GZMB+ T	56
+Treg	MAIT	47
+Treg	Plasma cells	24
+Treg	B cells	41
+Treg	CD56brightCD16- NK cells	64
+Treg	CD56dimCD16+ NK cells	58
+Treg	C2: C1q+IL18+MCs	45
+gd T	Naive T	52
+gd T	CD8+ GZMK+ T	25
+gd T	Treg	62
+gd T	gd T	36
+gd T	CD8+ Exhausted T	63
+gd T	CD8+ GZMB+ T	76
+gd T	MAIT	66
+gd T	Plasma cells	28
+gd T	B cells	50
+gd T	CD56brightCD16- NK cells	83
+gd T	CD56dimCD16+ NK cells	67
+gd T	C2: C1q+IL18+MCs	49
+CD8+ Exhausted T	Naive T	33
+CD8+ Exhausted T	CD8+ GZMK+ T	15
+CD8+ Exhausted T	Treg	47
+CD8+ Exhausted T	gd T	63
+CD8+ Exhausted T	CD8+ Exhausted T	23
+CD8+ Exhausted T	CD8+ GZMB+ T	56
+CD8+ Exhausted T	MAIT	44
+CD8+ Exhausted T	Plasma cells	22
+CD8+ Exhausted T	B cells	45
+CD8+ Exhausted T	CD56brightCD16- NK cells	65
+CD8+ Exhausted T	CD56dimCD16+ NK cells	52
+CD8+ Exhausted T	C2: C1q+IL18+MCs	43
+CD8+ GZMB+ T	Naive T	42
+CD8+ GZMB+ T	CD8+ GZMK+ T	23
+CD8+ GZMB+ T	Treg	56
+CD8+ GZMB+ T	gd T	76
+CD8+ GZMB+ T	CD8+ Exhausted T	56
+CD8+ GZMB+ T	CD8+ GZMB+ T	30
+CD8+ GZMB+ T	MAIT	54
+CD8+ GZMB+ T	Plasma cells	22
+CD8+ GZMB+ T	B cells	51
+CD8+ GZMB+ T	CD56brightCD16- NK cells	76
+CD8+ GZMB+ T	CD56dimCD16+ NK cells	62
+CD8+ GZMB+ T	C2: C1q+IL18+MCs	41
+MAIT	Naive T	29
+MAIT	CD8+ GZMK+ T	15
+MAIT	Treg	47
+MAIT	gd T	66
+MAIT	CD8+ Exhausted T	44
+MAIT	CD8+ GZMB+ T	54
+MAIT	MAIT	23
+MAIT	Plasma cells	25
+MAIT	B cells	46
+MAIT	CD56brightCD16- NK cells	62
+MAIT	CD56dimCD16+ NK cells	51
+MAIT	C2: C1q+IL18+MCs	48
+Plasma cells	Naive T	20
+Plasma cells	CD8+ GZMK+ T	8
+Plasma cells	Treg	24
+Plasma cells	gd T	28
+Plasma cells	CD8+ Exhausted T	22
+Plasma cells	CD8+ GZMB+ T	22
+Plasma cells	MAIT	25
+Plasma cells	Plasma cells	4
+Plasma cells	B cells	19
+Plasma cells	CD56brightCD16- NK cells	28
+Plasma cells	CD56dimCD16+ NK cells	25
+Plasma cells	C2: C1q+IL18+MCs	23
+B cells	Naive T	35
+B cells	CD8+ GZMK+ T	22
+B cells	Treg	41
+B cells	gd T	50
+B cells	CD8+ Exhausted T	45
+B cells	CD8+ GZMB+ T	51
+B cells	MAIT	46
+B cells	Plasma cells	19
+B cells	B cells	14
+B cells	CD56brightCD16- NK cells	50
+B cells	CD56dimCD16+ NK cells	51
+B cells	C2: C1q+IL18+MCs	34
+CD56brightCD16- NK cells	Naive T	56
+CD56brightCD16- NK cells	CD8+ GZMK+ T	27
+CD56brightCD16- NK cells	Treg	64
+CD56brightCD16- NK cells	gd T	83
+CD56brightCD16- NK cells	CD8+ Exhausted T	65
+CD56brightCD16- NK cells	CD8+ GZMB+ T	76
+CD56brightCD16- NK cells	MAIT	62
+CD56brightCD16- NK cells	Plasma cells	28
+CD56brightCD16- NK cells	B cells	50
+CD56brightCD16- NK cells	CD56brightCD16- NK cells	40
+CD56brightCD16- NK cells	CD56dimCD16+ NK cells	70
+CD56brightCD16- NK cells	C2: C1q+IL18+MCs	45
+CD56dimCD16+ NK cells	Naive T	43
+CD56dimCD16+ NK cells	CD8+ GZMK+ T	20
+CD56dimCD16+ NK cells	Treg	58
+CD56dimCD16+ NK cells	gd T	67
+CD56dimCD16+ NK cells	CD8+ Exhausted T	52
+CD56dimCD16+ NK cells	CD8+ GZMB+ T	62
+CD56dimCD16+ NK cells	MAIT	51
+CD56dimCD16+ NK cells	Plasma cells	25
+CD56dimCD16+ NK cells	B cells	51
+CD56dimCD16+ NK cells	CD56brightCD16- NK cells	70
+CD56dimCD16+ NK cells	CD56dimCD16+ NK cells	31
+CD56dimCD16+ NK cells	C2: C1q+IL18+MCs	46
+C2: C1q+IL18+MCs	Naive T	38
+C2: C1q+IL18+MCs	CD8+ GZMK+ T	24
+C2: C1q+IL18+MCs	Treg	45
+C2: C1q+IL18+MCs	gd T	49
+C2: C1q+IL18+MCs	CD8+ Exhausted T	43
+C2: C1q+IL18+MCs	CD8+ GZMB+ T	41
+C2: C1q+IL18+MCs	MAIT	48
+C2: C1q+IL18+MCs	Plasma cells	23
+C2: C1q+IL18+MCs	B cells	34
+C2: C1q+IL18+MCs	CD56brightCD16- NK cells	45
+C2: C1q+IL18+MCs	CD56dimCD16+ NK cells	46
+C2: C1q+IL18+MCs	C2: C1q+IL18+MCs	23
