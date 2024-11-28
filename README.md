@@ -6,7 +6,7 @@
 
 
 
-<center>                         Fig1 : Data Overview and Sequencing Diagram</center>
+<center> ----------Fig1 : Data Overview and Sequencing Diagram----------</center>
 
 <br>
 <br>
@@ -16,7 +16,6 @@ This repository includes  codes and data example used in the 'Mast cells boost a
 
 <br>
 
-<br>
 
 ## Summary📖
 
@@ -27,7 +26,7 @@ LUAD and enrolled the flow cytometry cohort and TMA cohort to study the dynamic 
 of mast cells during LUAD progression (from indolent to invasive LUAD). We constructed a 
 large single-cell transcriptional profiling of mast cells covering 115 samples to unravel the heterogeneity of mast cells and identified 9 distinct states of mast cells, including chemotaxis, antigen presentation, and proinflammation. More details in **manuscripts**
 
-<br><br>
+<br>
 
 
 ## Requirements🌸
@@ -49,8 +48,6 @@ large single-cell transcriptional profiling of mast cells covering 115 samples t
 <br>
 
 ☞ More details in **requirements_pyscenic.txt**
-
-<br>
 
 <br>
 
@@ -100,7 +97,7 @@ It takes approximately 3 minutes to draw the result image. (Computing machine: M
 
 <img src="./result/Figure_4A.jpg" alt="Fig 2" style="zoom:100%;" />
 
-<center>                           Fig2 : Cell communications between C1q+IL18+MCs and other cells</center>
+<center>----------Fig2 : Cell communications between C1q+IL18+MCs and other cells----------</center>
 
 <br>
 
