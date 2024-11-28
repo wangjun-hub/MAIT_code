@@ -31,7 +31,6 @@ large single-cell transcriptional profiling of mast cells covering 115 samples t
 
 <br><br>
 
-<br>
 
 ## Requirements🌸
 
@@ -49,13 +48,11 @@ large single-cell transcriptional profiling of mast cells covering 115 samples t
 
 - [ ] r-seurat (version 5.1.0)
 
-<br><br>
+<br>
 
 ☞ More details in **requirements_pyscenic.txt**
 
-
-
-<br><br>
+<br>
 
 <br>
 
@@ -81,11 +78,33 @@ Next, you need to activate the virtual environment:
 conda activate [virtual_environment_name]
 ```
 
-Once you have the `[virtual_environment_name]` ready, you can run all scripts!
+The above process takes approximately 1-2 hours.Once you have the `[virtual_environment_name]` ready, you can run all scripts!
 
 <br>
 
+#### Script Description
 
+●`Figure_4A.R` is used to visualize the communication connections between C1q+IL18+MCs and other cells. So you need to run it first.
+
+```
+cd [your_path]/script
+```
+
+and then
+
+```
+Rscript Figure_4A.R 
+```
+
+It takes approximately 3 minutes to draw the result image. (Computing machine: Macbook Air  M1 core)
+
+<br>
+
+<img src="./result/Figure_4A.jpg" alt="Fig 2" style="zoom:100%;" />
+
+<center>Fig2 : Cell communications between C1q+IL18+MCs and other cells (right)</center>
+
+<br>
 
 
 # Data
